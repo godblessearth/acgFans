@@ -1,8 +1,0 @@
-body,div,ul,ol,li,dlmdd,dt,input,span,button,tbody,tr,td,a,h1,h2,h3{ margin:0; padding:0; }
-*:link{text-decoration:none}
-a:link{color:black;}
-a:visited{color:black;}
-a:hover{color:#27A8E6;}
-ul,ol{
-list-style-type:none;
-}
