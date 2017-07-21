@@ -1,0 +1,127 @@
+
+#loadMenu{
+	width:100%;
+	min-width:955px;
+	height:100px;
+	margin:0 auto;
+	background:url("../pictures/bg5.jpg");
+	border-radius:0px;
+	overflow:hidden;
+}
+.logo{
+	float:left;
+	width:140px;
+	height:100px;
+	margin:0 0 0 50px;
+}
+.menulist{
+	float:right;
+	height:40px;
+	width:300px;
+	margin-top:50px;
+	border-radius:25px;
+}
+
+.menulistNames{
+	height:40px;
+	margin:0;
+}
+.menulistNames a{
+	line-height:40px;
+	font-size:20px;
+}
+
+#container{
+	width:100%;
+	margin-top:10px;
+	min-width:955px;
+	height:520px;
+	border-radius:0px;
+}
+#pictures{
+		border-radius:0px;
+	width:55%;
+	min-width:526px;
+	height:500px;
+	float:left;
+	margin:0 15px 0 5px;
+	overflow:hidden;
+}
+#load{
+	border-left:solid 1px #ddd;
+	width:45%;
+	width:398px;
+	height:500px;
+	margin:0;
+	overflow:hidden;
+	box-shadow:10px 10px #ddd;
+}
+.loadLogo{
+	border-radius:0;
+		margin:0 0 0 20px;
+}
+.loadLogo h1{
+	width:250px;
+	height:50px;
+	background:white;
+	line-height:30px;
+	color:rgb(150,143,143);
+	font-size:40px;
+	margin:10px 0 0 0;
+}
+.loadInput{
+	width:300px;
+	height:60px;
+	text-align:center;
+	margin-top:30px;
+	font-size:20px;
+	line-height:50px;
+}
+.loadInput input{
+	height:30px;
+}
+.frogetPass{
+	border-radius:0px;
+	height:20px;
+	margin-left:250px;
+}
+.frogetPass a{
+	font-size:10px;
+	color:blue;
+	line-height:20px;
+}
+.btnLoad{
+	width:400px;
+	height:80px;
+	margin:30px 0 0 0 ;
+	
+}
+input{
+	border:solid 1px #ddd;
+	height:50px;
+	width:210px;
+	margin-left:0px;
+	color:rgb(150,143,143);
+}
+.loading{
+	height:50px;
+	width:150px;
+	float:left;
+	margin-left:50px;
+	background:#BBE3FC;
+	font-size:20px;
+	color:#ffg;
+	border:#ddd 1px solid;
+}
+.reg{
+	font-size:20px;
+	margin-left:20px;
+	width:150px;
+	height:50px;
+	border:1px #ddd solid;
+	display:inline-block;
+	background:white;
+	background:white;
+	text-align:center;
+	line-height:50px;
+}
