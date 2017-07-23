@@ -14,6 +14,7 @@ else{include "../head/header_in.php";}
 		</h1>
 	</div>	
 </div>
+//图片轮播区
 <div class="headmain">
 		<div id="headImgBox">
 			<div class="headImgList">
